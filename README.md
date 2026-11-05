@@ -11,7 +11,7 @@ Open `config.js` and fill in:
 | `whatsapp` | `"201001234567"` (country code, no `+`, no spaces) |
 | `phone` | `"0653456789"` |
 | `hours_ar` / `hours_en` | `"كل يوم من ١٢ الظهر لـ ٢ بالليل"` / `"Daily, 12 noon – 2 am"` |
-| `facebook` / `instagram` | the page links |
+| `facebook` / `instagram` / `tripadvisor` | the page links |
 | `maps` / `mapsQuery` | the Google Maps link and the address the map shows |
 
 Any field left empty (`""`) hides its button.
