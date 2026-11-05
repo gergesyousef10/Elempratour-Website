@@ -19,6 +19,6 @@ window.SITE = {
   instagram: "",
 
   // لينك المكان على Google Maps (لو سيبته زي ما هو، بيدوّر على العنوان)
-  maps: "https://www.google.com/maps/search/?api=1&query=El+Empratour+Restaurant+Sherry+Street+Sekala+Hurghada",
+  maps: "https://maps.app.goo.gl/mWNVvipzfxuSq4xSA",
   mapsQuery: "El Empratour Restaurant, Sherry Street, Sekala, Hurghada"
 };
