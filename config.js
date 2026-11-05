@@ -11,8 +11,8 @@ window.SITE = {
   phone: "",
 
   // مواعيد الشغل
-  hours_ar: "",
-  hours_en: "",
+  hours_ar: "مفتوح ٢٤ ساعة · كل يوم",
+  hours_en: "Open 24 hours · every day",
 
   // لينكات السوشيال
   facebook: "",
